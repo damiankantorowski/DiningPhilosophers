@@ -11,7 +11,7 @@ class EventTypes(IntEnum):
     FINISH = 1
 
  
-class Chopstick():
+class Chopstick:
     
     def __init__(self):
         self.is_free = True
