@@ -1,0 +1,2 @@
+# DiningPhilosophers
+Dining Philosophers simulator
