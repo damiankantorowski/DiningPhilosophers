@@ -1,2 +1,2 @@
 # DiningPhilosophers
-Dining Philosophers simulator
+Results of the experiments in [Report](raport.pdf)
