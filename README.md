@@ -1,2 +1,2 @@
 # DiningPhilosophers
-Results of the experiments in [Report](raport.pdf)
+Results of the experiments in [Report](report.pdf)
